@@ -8,18 +8,15 @@
     -   Billing
     -   Email
     -   Phone
-    -   HQ Guilds
-    -   HQ Friends
     -   Gift codes
 -   Browser data
     -   Cookies
     -   Passwords
     -   History
     -   Bookmarks
-    -   Autofill
     -   Chrome, Edge, Brave, Opera GX, and many more...
 -   Discord injection
-    -   Send token, password, and email on login or when password is changed
+    -   Send token, password, and email on login
 -   System info
     -   User
     -   System
@@ -58,11 +55,5 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 ## License
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+Sunshine is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
-## Errors?
-
--   Make an [issue](https://github.com/addi00000/empyrean/issues)
--   Join the [Discord](https://discord.gg/GudVbfd9ZU)
-
-<img src="img/footer.png">
